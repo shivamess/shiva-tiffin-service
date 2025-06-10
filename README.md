@@ -108,13 +108,13 @@
     <div class="day"><strong>Thursday:</strong><br> Lunch – Dal, Chawal, Sabji, Bhujiya, Papad<br> Dinner – Roti, Sabji, Bhujiya, Kheer / Sawaiyan</div>
     <div class="day"><strong>Friday:</strong><br> Lunch – Chicken Chawal / Mix Sabji (Veg option)<br> Dinner – Roti, Sabji, Bhujiya, Aachar</div>
     <div class="day"><strong>Saturday:</strong><br> Lunch – Dal, Chawal, Sabji, Bhujiya, Papad<br> Dinner – Aloo Paratha / Sattu Paratha, Chokha, Aachar / Chatni</div>
-    <div class="day"><strong>Sunday:</strong><br> Lunch – Egg or Chicken Chawal<br> Dinner – Roti, Sabji, Bhujiya, Aachar</div>
+    <div class="day"><strong>Sunday:</strong><br> Lunch – Egg or Chicken Chawal / Paneer (Veg option)<br> Dinner – Roti, Sabji, Bhujiya, Aachar, Mithai</div>
   </section>
 
-  <section class="box">
+  <section class="box">/
     <h2>💰 Rates & Rules</h2>
     <p>🍛 Full Plate – ₹2400/month</p>
-    <p>🥗 Basic Veg – ₹1800/month</p>
+    <p>🥗 Half Plate – ₹1800/month</p>
     <p>🚚 <strong>Offline Service Only</strong> – No online orders</p>
     <p>📦 <strong>No Delivery Charges</strong></p>
     <p>✅ <strong>No Charge</strong> if food not taken</p>
