@@ -140,7 +140,11 @@
 
   <a class="btn" href="tel:6202195788">📞 Call Now</a>
   <a class="btn whatsapp" href="https://wa.me/916202195788" target="_blank">💬 WhatsApp Us</a>
-
+<section class="box">
+  <h2>🖼️ View Our Flyer</h2>
+  <img src="flyer.png" alt="Shiva Tiffin Service Flyer" style="max-width:100%; height:auto; border-radius:12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-top:10px;">
+  <p><a href="flyer.png" download style="display:inline-block; margin-top:8px;">⬇️ Download Flyer</a></p>
+</section>
   <footer>
     Website by Rishu 💖<br/>
     Shiva Tiffin Service © 2025
